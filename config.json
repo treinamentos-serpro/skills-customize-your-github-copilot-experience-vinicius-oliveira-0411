@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "intro-machine-learning",
+      "title": "Introdução ao Aprendizado de Máquina",
+      "description": "Treinamento e avaliação de classificadores com scikit-learn, divisão de dados e métricas.",
+      "path": "assignments/intro-machine-learning",
+      "dueDate": "2026-11-11",
+      "attachments": [
+        {
+          "name": "Código inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
